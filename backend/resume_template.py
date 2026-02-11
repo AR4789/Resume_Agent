@@ -83,7 +83,7 @@ def section_heading(text, theme, styles):
         parent=styles["Heading2"],
         fontSize=theme["section_size"],
         textColor=theme["accent"],
-        spaceBefore=16,
+        spaceBefore=12,
         spaceAfter=4,
     )
 
@@ -201,7 +201,9 @@ def render_resume(c, data, design="modern", density="detailed"):
                 if link:
                     story.append(
                         Paragraph(
-                            f"<b><link href='{link}'>{name}</link></b>",
+                            # f"<b><link href='{link}'>{name}</link></b>",
+                            f"<b><a href='{link}' color='{theme['accent'].hexval()}'>{name}</a></b> "
+                            f"<font size='8' color='{theme['muted'].hexval()}'>&nbsp;(Live)</font>",
                             styles["Normal"]
                         )
                     )

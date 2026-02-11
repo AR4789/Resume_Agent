@@ -229,5 +229,45 @@
     "resume_used": "resumes/optimized/Jake_s_Resume.pdf",
     "applied_on": "2026-01-20T17:49:32.297846",
     "status": "APPLIED"
+  },
+  {
+    "applicant": "Deeksha Shrivastava",
+    "company": "Google",
+    "role": "SDE",
+    "resume_used": "resumes/optimized/Make_s_Resume.pdf",
+    "applied_on": "2026-02-10T13:13:05.934388",
+    "status": "APPLIED"
+  },
+  {
+    "applicant": "Aman Rai",
+    "company": "Cloudhire",
+    "role": "Full Stack Developer- SDE",
+    "resume_used": "resumes/optimized/Make_s_Resume.pdf",
+    "applied_on": "2026-02-11T09:53:37.242691",
+    "status": "APPLIED"
+  },
+  {
+    "applicant": "Aman Rai",
+    "company": "Cloudhire",
+    "role": "Full Stack Developer- SDE",
+    "resume_used": "resumes/optimized/Make_s_Resume.pdf",
+    "applied_on": "2026-02-11T10:26:46.223874",
+    "status": "APPLIED"
+  },
+  {
+    "applicant": "Aman Rai",
+    "company": "Cloudhire",
+    "role": "Full Stack Developer- SDE",
+    "resume_used": "resumes/optimized/Make_s_Resume.pdf",
+    "applied_on": "2026-02-11T11:05:50.712924",
+    "status": "APPLIED"
+  },
+  {
+    "applicant": "Aman Rai",
+    "company": "Cloudhire",
+    "role": "Full Stack Developer- SDE",
+    "resume_used": "resumes/optimized/Make_s_Resume.pdf",
+    "applied_on": "2026-02-11T12:08:03.924053",
+    "status": "APPLIED"
   }
 ]
